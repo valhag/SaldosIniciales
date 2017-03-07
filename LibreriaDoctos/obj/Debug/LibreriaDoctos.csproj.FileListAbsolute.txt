@@ -1,0 +1,27 @@
+C:\Users\Hector\Documents\Visual Studio 2008\Projects\InterfazIntADM\LibreriaDoctos\bin\Debug\LibreriaDoctos.dll.config
+C:\Users\Hector\Documents\Visual Studio 2008\Projects\InterfazIntADM\LibreriaDoctos\bin\Debug\LibreriaDoctos.dll
+C:\Users\Hector\Documents\Visual Studio 2008\Projects\InterfazIntADM\LibreriaDoctos\bin\Debug\LibreriaDoctos.pdb
+C:\Users\Hector\Documents\Visual Studio 2008\Projects\InterfazIntADM\InterfazIntADM\bin\Debug\LibreriaDoctos.dll.config
+C:\Users\Hector\Documents\Visual Studio 2008\Projects\InterfazIntADM\InterfazIntADM\bin\Debug\LibreriaDoctos.dll
+C:\Users\Hector\Documents\Visual Studio 2008\Projects\InterfazIntADM\InterfazIntADM\bin\Debug\LibreriaDoctos.pdb
+C:\Users\Hector\Documents\Visual Studio 2008\Projects\InterfazIntADM\LibreriaDoctos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Hector\Documents\Visual Studio 2008\Projects\InterfazIntADM\LibreriaDoctos\obj\Debug\LibreriaDoctos.dll
+C:\Users\Hector\Documents\Visual Studio 2008\Projects\InterfazIntADM\LibreriaDoctos\obj\Debug\LibreriaDoctos.pdb
+C:\Users\Hector\Documents\clientes\binstala\InterfazIntADM\InterfazIntADM\bin\Debug\LibreriaDoctos.dll.config
+C:\Users\Hector\Documents\clientes\binstala\InterfazIntADM\InterfazIntADM\bin\Debug\LibreriaDoctos.dll
+C:\Users\Hector\Documents\clientes\binstala\InterfazIntADM\InterfazIntADM\bin\Debug\LibreriaDoctos.pdb
+C:\Users\Hector\Documents\clientes\binstala\InterfazIntADM\LibreriaDoctos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Hector\Documents\clientes\binstala\InterfazIntADM\LibreriaDoctos\obj\Debug\LibreriaDoctos.dll
+C:\Users\Hector\Documents\clientes\binstala\InterfazIntADM\LibreriaDoctos\obj\Debug\LibreriaDoctos.pdb
+C:\Users\TOSHIBA\Documents\clientes\JULITAS\InterfazIntADM\InterfazIntADM\bin\Debug\LibreriaDoctos.dll.config
+C:\Users\TOSHIBA\Documents\clientes\JULITAS\InterfazIntADM\InterfazIntADM\bin\Debug\LibreriaDoctos.dll
+C:\Users\TOSHIBA\Documents\clientes\JULITAS\InterfazIntADM\InterfazIntADM\bin\Debug\LibreriaDoctos.pdb
+C:\Users\TOSHIBA\Documents\clientes\JULITAS\InterfazIntADM\LibreriaDoctos\obj\Debug\LibreriaDoctos.csprojResolveAssemblyReference.cache
+C:\Users\TOSHIBA\Documents\clientes\JULITAS\InterfazIntADM\LibreriaDoctos\obj\Debug\LibreriaDoctos.dll
+C:\Users\TOSHIBA\Documents\clientes\JULITAS\InterfazIntADM\LibreriaDoctos\obj\Debug\LibreriaDoctos.pdb
+C:\Users\TOSHIBA\Documents\clientes\binstala\InterfazArchivoAdmin\InterfazIntADM\bin\Debug\LibreriaDoctos.dll.config
+C:\Users\TOSHIBA\Documents\clientes\binstala\InterfazArchivoAdmin\InterfazIntADM\bin\Debug\LibreriaDoctos.dll
+C:\Users\TOSHIBA\Documents\clientes\binstala\InterfazArchivoAdmin\InterfazIntADM\bin\Debug\LibreriaDoctos.pdb
+C:\Users\TOSHIBA\Documents\clientes\binstala\InterfazArchivoAdmin\LibreriaDoctos\obj\Debug\LibreriaDoctos.csprojResolveAssemblyReference.cache
+C:\Users\TOSHIBA\Documents\clientes\binstala\InterfazArchivoAdmin\LibreriaDoctos\obj\Debug\LibreriaDoctos.dll
+C:\Users\TOSHIBA\Documents\clientes\binstala\InterfazArchivoAdmin\LibreriaDoctos\obj\Debug\LibreriaDoctos.pdb

@@ -1,0 +1,28 @@
+C:\Users\Hector\Documents\clientes\binstala\InterfazIntADM\LibreriaDoctos\bin\x86\Debug\LibreriaDoctos.dll.config
+C:\Users\Hector\Documents\clientes\binstala\InterfazIntADM\LibreriaDoctos\bin\x86\Debug\LibreriaDoctos.dll
+C:\Users\Hector\Documents\clientes\binstala\InterfazIntADM\LibreriaDoctos\bin\x86\Debug\LibreriaDoctos.pdb
+C:\Users\Hector\Documents\clientes\binstala\InterfazIntADM\LibreriaDoctos\bin\x86\Debug\Interfaces.dll
+C:\Users\Hector\Documents\clientes\binstala\InterfazIntADM\LibreriaDoctos\bin\x86\Debug\Interfaces.pdb
+C:\Users\Hector\Documents\clientes\binstala\InterfazIntADM\LibreriaDoctos\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Hector\Documents\clientes\binstala\InterfazIntADM\LibreriaDoctos\obj\x86\Debug\LibreriaDoctos.dll
+C:\Users\Hector\Documents\clientes\binstala\InterfazIntADM\LibreriaDoctos\obj\x86\Debug\LibreriaDoctos.pdb
+C:\Users\TOSHIBA\Documents\clientes\JULITAS\InterfazIntADM\LibreriaDoctos\bin\x86\Debug\LibreriaDoctos.dll.config
+C:\Users\TOSHIBA\Documents\clientes\JULITAS\InterfazIntADM\LibreriaDoctos\bin\x86\Debug\LibreriaDoctos.dll
+C:\Users\TOSHIBA\Documents\clientes\JULITAS\InterfazIntADM\LibreriaDoctos\bin\x86\Debug\LibreriaDoctos.pdb
+C:\Users\TOSHIBA\Documents\clientes\JULITAS\InterfazIntADM\LibreriaDoctos\bin\x86\Debug\Interfaces.dll
+C:\Users\TOSHIBA\Documents\clientes\JULITAS\InterfazIntADM\LibreriaDoctos\bin\x86\Debug\Interfaces.pdb
+C:\Users\TOSHIBA\Documents\clientes\JULITAS\InterfazIntADM\LibreriaDoctos\obj\x86\Debug\LibreriaDoctos.csprojResolveAssemblyReference.cache
+C:\Users\TOSHIBA\Documents\clientes\JULITAS\InterfazIntADM\LibreriaDoctos\obj\x86\Debug\LibreriaDoctos.dll
+C:\Users\TOSHIBA\Documents\clientes\JULITAS\InterfazIntADM\LibreriaDoctos\obj\x86\Debug\LibreriaDoctos.pdb
+C:\Users\TOSHIBA\Documents\clientes\Adriana Sepulveda\JulitasAdmin\JulitasAdmin\bin\Debug\LibreriaDoctos.dll.config
+C:\Users\TOSHIBA\Documents\clientes\Adriana Sepulveda\JulitasAdmin\JulitasAdmin\bin\Debug\LibreriaDoctos.dll
+C:\Users\TOSHIBA\Documents\clientes\Adriana Sepulveda\JulitasAdmin\JulitasAdmin\bin\Debug\LibreriaDoctos.pdb
+C:\Users\TOSHIBA\Documents\clientes\binstala\InterfazArchivoAdmin\LibreriaDoctos\obj\x86\Debug\LibreriaDoctos.csprojResolveAssemblyReference.cache
+C:\Users\TOSHIBA\Documents\clientes\binstala\InterfazArchivoAdmin\LibreriaDoctos\obj\x86\Debug\LibreriaDoctos.dll
+C:\Users\TOSHIBA\Documents\clientes\binstala\InterfazArchivoAdmin\LibreriaDoctos\obj\x86\Debug\LibreriaDoctos.pdb
+C:\Users\TOSHIBA\Documents\clientes\binstala\SaldosIniciales\LibreriaDoctos\obj\x86\Debug\LibreriaDoctos.csprojResolveAssemblyReference.cache
+C:\Users\TOSHIBA\Documents\clientes\binstala\SaldosIniciales\LibreriaDoctos\obj\x86\Debug\LibreriaDoctos.dll
+C:\Users\TOSHIBA\Documents\clientes\binstala\SaldosIniciales\LibreriaDoctos\obj\x86\Debug\LibreriaDoctos.pdb
+C:\Users\TOSHIBA\Documents\clientes\binstala\SaldosIniciales\InterfazIntADM\bin\Debug\LibreriaDoctos.dll.config
+C:\Users\TOSHIBA\Documents\clientes\binstala\SaldosIniciales\InterfazIntADM\bin\Debug\LibreriaDoctos.dll
+C:\Users\TOSHIBA\Documents\clientes\binstala\SaldosIniciales\InterfazIntADM\bin\Debug\LibreriaDoctos.pdb

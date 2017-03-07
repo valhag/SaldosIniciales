@@ -1,0 +1,11 @@
+C:\Users\TOSHIBA\Documents\clientes\binstala\SaldosIniciales\controles\bin\Debug\controles.dll
+C:\Users\TOSHIBA\Documents\clientes\binstala\SaldosIniciales\controles\bin\Debug\controles.pdb
+C:\Users\TOSHIBA\Documents\clientes\binstala\SaldosIniciales\controles\obj\Debug\controles.CICompanyList1.resources
+C:\Users\TOSHIBA\Documents\clientes\binstala\SaldosIniciales\controles\obj\Debug\controles.csproj.GenerateResource.Cache
+C:\Users\TOSHIBA\Documents\clientes\binstala\SaldosIniciales\controles\obj\Debug\controles.dll
+C:\Users\TOSHIBA\Documents\clientes\binstala\SaldosIniciales\controles\obj\Debug\controles.pdb
+C:\Users\TOSHIBA\Documents\clientes\binstala\SaldosIniciales\SaldosIniciales\bin\Debug\controles.dll
+C:\Users\TOSHIBA\Documents\clientes\binstala\SaldosIniciales\SaldosIniciales\bin\Debug\controles.pdb
+C:\Users\TOSHIBA\Documents\clientes\binstala\SaldosIniciales\controles\obj\Debug\controles.csprojResolveAssemblyReference.cache
+C:\Users\TOSHIBA\Documents\clientes\binstala\GeneraExeDll\controles.dll
+C:\Users\TOSHIBA\Documents\clientes\binstala\GeneraExeDll\controles.pdb

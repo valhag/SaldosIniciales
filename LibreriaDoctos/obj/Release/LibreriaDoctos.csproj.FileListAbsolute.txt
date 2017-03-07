@@ -1,0 +1,21 @@
+C:\Users\Hector\Documents\Visual Studio 2008\Projects\InterfazIntADM\LibreriaDoctos\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Hector\Documents\Visual Studio 2008\Projects\InterfazIntADM\LibreriaDoctos\obj\Release\LibreriaDoctos.dll
+C:\Users\Hector\Documents\Visual Studio 2008\Projects\InterfazIntADM\LibreriaDoctos\obj\Release\LibreriaDoctos.pdb
+C:\Users\Hector\Documents\Visual Studio 2008\Projects\InterfazIntADM\GeneraDoctosAdminpaq\bin\Release\LibreriaDoctos.dll.config
+C:\Users\Hector\Documents\Visual Studio 2008\Projects\InterfazIntADM\GeneraDoctosAdminpaq\bin\Release\LibreriaDoctos.dll
+C:\Users\Hector\Documents\Visual Studio 2008\Projects\InterfazIntADM\GeneraDoctosAdminpaq\bin\Release\LibreriaDoctos.pdb
+C:\Users\Hector\Documents\clientes\binstala\InterfazIntADM\GeneraDoctosAdminpaq\bin\Release\LibreriaDoctos.dll.config
+C:\Users\Hector\Documents\clientes\binstala\InterfazIntADM\GeneraDoctosAdminpaq\bin\Release\LibreriaDoctos.dll
+C:\Users\Hector\Documents\clientes\binstala\InterfazIntADM\GeneraDoctosAdminpaq\bin\Release\LibreriaDoctos.pdb
+C:\Users\Hector\Documents\clientes\binstala\InterfazIntADM\InterfazIntADM\bin\Release\LibreriaDoctos.dll.config
+C:\Users\Hector\Documents\clientes\binstala\InterfazIntADM\InterfazIntADM\bin\Release\LibreriaDoctos.dll
+C:\Users\Hector\Documents\clientes\binstala\InterfazIntADM\InterfazIntADM\bin\Release\LibreriaDoctos.pdb
+C:\Users\Hector\Documents\clientes\binstala\InterfazIntADM\LibreriaDoctos\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Hector\Documents\clientes\binstala\InterfazIntADM\LibreriaDoctos\obj\Release\LibreriaDoctos.dll
+C:\Users\Hector\Documents\clientes\binstala\InterfazIntADM\LibreriaDoctos\obj\Release\LibreriaDoctos.pdb
+C:\Users\TOSHIBA\Documents\clientes\binstala\InterfazArchivoAdmin\InterfazIntADM\bin\Release\LibreriaDoctos.dll.config
+C:\Users\TOSHIBA\Documents\clientes\binstala\InterfazArchivoAdmin\InterfazIntADM\bin\Release\LibreriaDoctos.dll
+C:\Users\TOSHIBA\Documents\clientes\binstala\InterfazArchivoAdmin\InterfazIntADM\bin\Release\LibreriaDoctos.pdb
+C:\Users\TOSHIBA\Documents\clientes\binstala\InterfazArchivoAdmin\LibreriaDoctos\obj\Release\LibreriaDoctos.csprojResolveAssemblyReference.cache
+C:\Users\TOSHIBA\Documents\clientes\binstala\InterfazArchivoAdmin\LibreriaDoctos\obj\Release\LibreriaDoctos.dll
+C:\Users\TOSHIBA\Documents\clientes\binstala\InterfazArchivoAdmin\LibreriaDoctos\obj\Release\LibreriaDoctos.pdb

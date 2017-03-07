@@ -1,0 +1,5 @@
+C:\Users\Hector\Documents\clientes\binstala\InterfazIntADM\LibreriaDoctos\bin\x64\Release\LibreriaDoctos.dll.config
+C:\Users\Hector\Documents\clientes\binstala\InterfazIntADM\LibreriaDoctos\bin\x64\Release\LibreriaDoctos.dll
+C:\Users\Hector\Documents\clientes\binstala\InterfazIntADM\LibreriaDoctos\bin\x64\Release\Interfaces.dll
+C:\Users\Hector\Documents\clientes\binstala\InterfazIntADM\LibreriaDoctos\obj\x64\Release\ResolveAssemblyReference.cache
+C:\Users\Hector\Documents\clientes\binstala\InterfazIntADM\LibreriaDoctos\obj\x64\Release\LibreriaDoctos.dll

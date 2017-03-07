@@ -1,0 +1,13 @@
+C:\Users\Hector\Documents\clientes\binstala\InterfazIntADM\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\Hector\Documents\clientes\binstala\InterfazIntADM\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\Hector\Documents\clientes\binstala\InterfazIntADM\Interfaces\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Hector\Documents\clientes\binstala\InterfazIntADM\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\Hector\Documents\clientes\binstala\InterfazIntADM\Interfaces\obj\Debug\Interfaces.pdb
+C:\Users\TOSHIBA\Documents\clientes\JULITAS\InterfazIntADM\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\TOSHIBA\Documents\clientes\JULITAS\InterfazIntADM\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\TOSHIBA\Documents\clientes\JULITAS\InterfazIntADM\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\TOSHIBA\Documents\clientes\JULITAS\InterfazIntADM\Interfaces\obj\Debug\Interfaces.pdb
+C:\Users\TOSHIBA\Documents\clientes\binstala\InterfazArchivoAdmin\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\TOSHIBA\Documents\clientes\binstala\InterfazArchivoAdmin\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\TOSHIBA\Documents\clientes\binstala\InterfazArchivoAdmin\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\TOSHIBA\Documents\clientes\binstala\InterfazArchivoAdmin\Interfaces\obj\Debug\Interfaces.pdb

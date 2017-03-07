@@ -1,0 +1,21 @@
+C:\Users\Hector\Documents\clientes\binstala\InterfazIntADM\Interfaces\bin\x86\Debug\Interfaces.dll
+C:\Users\Hector\Documents\clientes\binstala\InterfazIntADM\Interfaces\bin\x86\Debug\Interfaces.pdb
+C:\Users\Hector\Documents\clientes\binstala\InterfazIntADM\Interfaces\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Hector\Documents\clientes\binstala\InterfazIntADM\Interfaces\obj\x86\Debug\Interfaces.dll
+C:\Users\Hector\Documents\clientes\binstala\InterfazIntADM\Interfaces\obj\x86\Debug\Interfaces.pdb
+C:\Users\TOSHIBA\Documents\clientes\JULITAS\InterfazIntADM\Interfaces\bin\x86\Debug\Interfaces.dll
+C:\Users\TOSHIBA\Documents\clientes\JULITAS\InterfazIntADM\Interfaces\bin\x86\Debug\Interfaces.pdb
+C:\Users\TOSHIBA\Documents\clientes\JULITAS\InterfazIntADM\Interfaces\obj\x86\Debug\Interfaces.dll
+C:\Users\TOSHIBA\Documents\clientes\JULITAS\InterfazIntADM\Interfaces\obj\x86\Debug\Interfaces.pdb
+C:\Users\TOSHIBA\Documents\clientes\Adriana Sepulveda\JulitasAdmin\JulitasAdmin\bin\Debug\Interfaces.dll
+C:\Users\TOSHIBA\Documents\clientes\Adriana Sepulveda\JulitasAdmin\JulitasAdmin\bin\Debug\Interfaces.pdb
+C:\Users\TOSHIBA\Documents\clientes\binstala\InterfazArchivoAdmin\Interfaces\obj\x86\Debug\Interfaces.dll
+C:\Users\TOSHIBA\Documents\clientes\binstala\InterfazArchivoAdmin\Interfaces\obj\x86\Debug\Interfaces.pdb
+C:\Users\TOSHIBA\Documents\clientes\binstala\InterfazArchivoAdmin\Interfaces\obj\x86\Debug\Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\TOSHIBA\Documents\clientes\binstala\SaldosIniciales\Interfaces\obj\x86\Debug\Interfaces.dll
+C:\Users\TOSHIBA\Documents\clientes\binstala\SaldosIniciales\Interfaces\obj\x86\Debug\Interfaces.pdb
+C:\Users\TOSHIBA\Documents\clientes\binstala\SaldosIniciales\InterfazIntADM\bin\Debug\Interfaces.dll
+C:\Users\TOSHIBA\Documents\clientes\binstala\SaldosIniciales\InterfazIntADM\bin\Debug\Interfaces.pdb
+C:\Users\TOSHIBA\Documents\clientes\binstala\GeneraExeDll\Interfaces.dll
+C:\Users\TOSHIBA\Documents\clientes\binstala\GeneraExeDll\Interfaces.pdb
+C:\Users\TOSHIBA\Documents\clientes\binstala\SaldosIniciales\Interfaces\obj\x86\Debug\Interfaces.csprojResolveAssemblyReference.cache

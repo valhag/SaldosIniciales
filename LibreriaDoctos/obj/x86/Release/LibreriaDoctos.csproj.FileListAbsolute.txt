@@ -1,0 +1,12 @@
+C:\Users\Hector\Documents\clientes\binstala\InterfazIntADM\LibreriaDoctos\bin\x86\Release\LibreriaDoctos.dll.config
+C:\Users\Hector\Documents\clientes\binstala\InterfazIntADM\LibreriaDoctos\bin\x86\Release\LibreriaDoctos.dll
+C:\Users\Hector\Documents\clientes\binstala\InterfazIntADM\LibreriaDoctos\bin\x86\Release\Interfaces.dll
+C:\Users\Hector\Documents\clientes\binstala\InterfazIntADM\LibreriaDoctos\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Hector\Documents\clientes\binstala\InterfazIntADM\LibreriaDoctos\obj\x86\Release\LibreriaDoctos.dll
+C:\Users\TOSHIBA\Documents\clientes\JULITAS\InterfazIntADM\LibreriaDoctos\bin\x86\Release\LibreriaDoctos.dll.config
+C:\Users\TOSHIBA\Documents\clientes\JULITAS\InterfazIntADM\LibreriaDoctos\bin\x86\Release\LibreriaDoctos.dll
+C:\Users\TOSHIBA\Documents\clientes\JULITAS\InterfazIntADM\LibreriaDoctos\bin\x86\Release\Interfaces.dll
+C:\Users\TOSHIBA\Documents\clientes\JULITAS\InterfazIntADM\LibreriaDoctos\obj\x86\Release\LibreriaDoctos.dll
+C:\Users\TOSHIBA\Documents\clientes\JULITAS\InterfazIntADM\LibreriaDoctos\obj\x86\Release\LibreriaDoctos.csprojResolveAssemblyReference.cache
+C:\Users\TOSHIBA\Documents\clientes\Adriana Sepulveda\JulitasAdmin\JulitasAdmin\bin\Release\LibreriaDoctos.dll.config
+C:\Users\TOSHIBA\Documents\clientes\Adriana Sepulveda\JulitasAdmin\JulitasAdmin\bin\Release\LibreriaDoctos.dll

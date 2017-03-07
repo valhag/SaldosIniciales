@@ -1,0 +1,23 @@
+C:\Users\Hector\Documents\Visual Studio 2005\Projects\GeneraDoctosAdminpaq\LibreriaDoctos\bin\Debug\LibreriaDoctos.dll.config
+C:\Users\Hector\Documents\Visual Studio 2005\Projects\GeneraDoctosAdminpaq\LibreriaDoctos\bin\Debug\LibreriaDoctos.dll
+C:\Users\Hector\Documents\Visual Studio 2005\Projects\GeneraDoctosAdminpaq\LibreriaDoctos\bin\Debug\LibreriaDoctos.pdb
+C:\Users\Hector\Documents\Visual Studio 2005\Projects\GeneraDoctosAdminpaq\LibreriaDoctos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Hector\Documents\Visual Studio 2005\Projects\GeneraDoctosAdminpaq\LibreriaDoctos\obj\Debug\LibreriaDoctos.dll
+C:\Users\Hector\Documents\Visual Studio 2005\Projects\GeneraDoctosAdminpaq\LibreriaDoctos\obj\Debug\LibreriaDoctos.pdb
+C:\DBHOSPITAL\GeneraDoctosAdminpaq\LibreriaDoctos\bin\Release\LibreriaDoctos.dll.config
+C:\DBHOSPITAL\GeneraDoctosAdminpaq\LibreriaDoctos\bin\Release\LibreriaDoctos.dll
+C:\DBHOSPITAL\GeneraDoctosAdminpaq\LibreriaDoctos\bin\Release\LibreriaDoctos.pdb
+C:\DBHOSPITAL\GeneraDoctosAdminpaq\GeneraDoctosAdminpaq\bin\Release\LibreriaDoctos.dll.config
+C:\DBHOSPITAL\GeneraDoctosAdminpaq\GeneraDoctosAdminpaq\bin\Release\LibreriaDoctos.dll
+C:\DBHOSPITAL\GeneraDoctosAdminpaq\GeneraDoctosAdminpaq\bin\Release\LibreriaDoctos.pdb
+C:\DBHOSPITAL\GeneraDoctosAdminpaq\LibreriaDoctos\obj\Release\ResolveAssemblyReference.cache
+C:\DBHOSPITAL\GeneraDoctosAdminpaq\LibreriaDoctos\obj\Release\LibreriaDoctos.dll
+C:\DBHOSPITAL\GeneraDoctosAdminpaq\LibreriaDoctos\obj\Release\LibreriaDoctos.pdb
+C:\DBHOSPITAL\GeneraDoctosAdminpaq\LibreriaDoctos\obj\Debug\ResolveAssemblyReference.cache
+C:\DBHOSPITAL\GeneraDoctosAdminpaq\LibreriaDoctos\bin\Debug\LibreriaDoctos.dll.config
+C:\DBHOSPITAL\GeneraDoctosAdminpaq\LibreriaDoctos\bin\Debug\LibreriaDoctos.dll
+C:\DBHOSPITAL\GeneraDoctosAdminpaq\LibreriaDoctos\bin\Debug\LibreriaDoctos.pdb
+C:\DBHOSPITAL\GeneraDoctosAdminpaq\LibreriaDoctos\obj\Debug\LibreriaDoctos.dll
+C:\DBHOSPITAL\GeneraDoctosAdminpaq\LibreriaDoctos\obj\Debug\LibreriaDoctos.pdb
+C:\DBHOSPITAL\GeneraDoctosAdminpaq\LibreriaDoctos\bin\Debug\BarradeProgreso.dll
+C:\DBHOSPITAL\GeneraDoctosAdminpaq\LibreriaDoctos\bin\Debug\BarradeProgreso.pdb

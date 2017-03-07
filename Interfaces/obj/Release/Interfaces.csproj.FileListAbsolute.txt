@@ -1,0 +1,11 @@
+C:\Users\Hector\Documents\clientes\binstala\InterfazIntADM\Interfaces\bin\Release\Interfaces.dll
+C:\Users\Hector\Documents\clientes\binstala\InterfazIntADM\Interfaces\bin\Release\Interfaces.pdb
+C:\Users\Hector\Documents\clientes\binstala\InterfazIntADM\InterfazIntADM\bin\Release\Interfaces.dll
+C:\Users\Hector\Documents\clientes\binstala\InterfazIntADM\InterfazIntADM\bin\Release\Interfaces.pdb
+C:\Users\Hector\Documents\clientes\binstala\InterfazIntADM\Interfaces\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Hector\Documents\clientes\binstala\InterfazIntADM\Interfaces\obj\Release\Interfaces.dll
+C:\Users\Hector\Documents\clientes\binstala\InterfazIntADM\Interfaces\obj\Release\Interfaces.pdb
+C:\Users\TOSHIBA\Documents\clientes\binstala\InterfazArchivoAdmin\InterfazIntADM\bin\Release\Interfaces.dll
+C:\Users\TOSHIBA\Documents\clientes\binstala\InterfazArchivoAdmin\InterfazIntADM\bin\Release\Interfaces.pdb
+C:\Users\TOSHIBA\Documents\clientes\binstala\InterfazArchivoAdmin\Interfaces\obj\Release\Interfaces.dll
+C:\Users\TOSHIBA\Documents\clientes\binstala\InterfazArchivoAdmin\Interfaces\obj\Release\Interfaces.pdb

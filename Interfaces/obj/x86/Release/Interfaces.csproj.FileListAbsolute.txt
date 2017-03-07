@@ -1,0 +1,6 @@
+C:\Users\Hector\Documents\clientes\binstala\InterfazIntADM\Interfaces\bin\x86\Release\Interfaces.dll
+C:\Users\Hector\Documents\clientes\binstala\InterfazIntADM\Interfaces\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Hector\Documents\clientes\binstala\InterfazIntADM\Interfaces\obj\x86\Release\Interfaces.dll
+C:\Users\TOSHIBA\Documents\clientes\JULITAS\InterfazIntADM\Interfaces\bin\x86\Release\Interfaces.dll
+C:\Users\TOSHIBA\Documents\clientes\JULITAS\InterfazIntADM\Interfaces\obj\x86\Release\Interfaces.dll
+C:\Users\TOSHIBA\Documents\clientes\Adriana Sepulveda\JulitasAdmin\JulitasAdmin\bin\Release\Interfaces.dll
